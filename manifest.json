@@ -8,10 +8,10 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "./Gemini_Generated_Image_yk6zgeyk6zgeyk6z (1).jpg",
+      "src": "./Gemini_Generated_Image_yk6zgeyk6zgeyk6z%20%281%29.jpg",
       "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
+      "type": "image/jpeg",
+      "purpose": "any"
     }
   ]
 }
